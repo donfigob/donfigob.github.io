@@ -14,11 +14,12 @@ author: "cris"
     </div>
     <div class="paper-content">
       <h3 class="paper-title">When the City Teaches the Car: Label-Free 3D Perception from Infrastructure</h3>
-      <p class="paper-authors">Zhen Xu*, Jinsu Yoo* <span class="author-me">Cristian Bautista*</span>, Zanming Huang, Tai-Yu Pan, Zhenzhen Liu, Katie Z. Luo, Mark Campbell, Bharath Hariharan, Wei-Lun Chao</p>
+      <p class="paper-authors">Zhen Xu*, Jinsu Yoo*, <span class="author-me">Cristian Bautista*</span>, Zanming Huang, Tai-Yu Pan, Zhenzhen Liu, Katie Z. Luo, Mark Campbell, Bharath Hariharan, Wei-Lun Chao</p>
       <p class="paper-meta">ECCV 2026. Best Poster Award, X-Sense Workshop, CVPR 2026.</p>
       <div class="paper-links">
         <a href="https://arxiv.org/pdf/2603.16742">arXiv</a>
-        <span>Project page coming soon</span>
+        <a href="https://jinsuyoo.info/civet/">Project page</a>
+        <span>Code coming soon</span>
         <span>Poster coming soon</span>
       </div>
     </div>

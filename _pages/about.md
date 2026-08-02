@@ -22,7 +22,7 @@ I am exploring how agents can perceive and understand scenes based on their acti
 
 ## Selected Work
 
-- **When the City Teaches the Car:** label-free 3D perception from infrastructure, currently under review for ECCV 2026.
+- **When the City Teaches the Car:** label-free 3D perception from infrastructure, ECCV 2026. Best Poster Award, X-Sense Workshop at CVPR 2026.
 - **SmartCityZero:** label-free 3D perception through RSU-to-vehicle collaboration, ICCV 2025 X-Sense Workshop.
 - **Buckeye AutoDrive:** team captain and mobility innovation leader for an autonomous vehicle competition team at Ohio State.
 

@@ -15,9 +15,10 @@ Selected projects, demos, and research systems, with links to papers, technical 
       Teaser coming soon
     </div>
     <div class="project-content">
-      <h3 class="project-title">Collaborative 3D Perception</h3>
-      <p class="project-meta">Research project | 2025-present | Autonomous driving, 3D perception, infrastructure collaboration</p>
-      <p class="project-summary">Label-free 3D perception for autonomous driving using infrastructure-to-vehicle collaboration.</p>
+      <h3 class="project-title">When the City Teaches the Car</h3>
+      <p class="project-meta">ECCV 2026 | Best Poster Award, X-Sense Workshop at CVPR 2026 | Collaborative 3D perception</p>
+      <p class="paper-authors">Zhen Xu*, Jinsu Yoo*, <span class="author-me">Cristian Bautista*</span>, Zanming Huang, Tai-Yu Pan, Zhenzhen Liu, Katie Z. Luo, Mark Campbell, Bharath Hariharan, Wei-Lun Chao</p>
+      <p class="project-summary">Label-free 3D perception from infrastructure for autonomous driving, using infrastructure-to-vehicle collaboration to improve vehicle-side perception.</p>
       <div class="project-tags">
         <span>3D perception</span>
         <span>LiDAR</span>
@@ -26,8 +27,10 @@ Selected projects, demos, and research systems, with links to papers, technical 
       </div>
       <div class="project-links">
         <a href="https://arxiv.org/pdf/2603.16742">Paper</a>
+        <a href="https://jinsuyoo.info/civet/">Project page</a>
         <a href="/research/">Research</a>
-        <span>Project page coming soon</span>
+        <span>Code coming soon</span>
+        <span>Poster coming soon</span>
       </div>
     </div>
   </article>
