@@ -12,7 +12,9 @@ Selected visual evidence from projects, demos, vehicle testing, posters, and res
 
   <article class="project-item">
     <div class="project-thumb">
-      <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle platform">
+      <a href="/images/projects/autodrive-stack.jpg" class="image-lightbox">
+        <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle platform">
+      </a>
     </div>
     <div class="project-content">
       <h3 class="project-title">Buckeye AutoDrive AV Stack</h3>
@@ -23,7 +25,9 @@ Selected visual evidence from projects, demos, vehicle testing, posters, and res
 
   <article class="project-item">
     <div class="project-thumb">
-      <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      <a href="/images/projects/civet-teaser.jpg" class="image-lightbox">
+        <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      </a>
     </div>
     <div class="project-content">
       <h3 class="project-title">When the City Teaches the Car</h3>

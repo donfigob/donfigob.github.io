@@ -12,7 +12,9 @@ Selected projects, demos, and research systems, with links to papers, technical 
 
   <article class="project-item">
     <div class="project-thumb">
-      <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      <a href="/images/projects/civet-teaser.jpg" class="image-lightbox">
+        <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      </a>
     </div>
     <div class="project-content">
       <h3 class="project-title">When the City Teaches the Car</h3>
@@ -37,7 +39,9 @@ Selected projects, demos, and research systems, with links to papers, technical 
 
   <article class="project-item">
     <div class="project-thumb">
-      <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle stack teaser">
+      <a href="/images/projects/autodrive-stack.jpg" class="image-lightbox">
+        <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle stack teaser">
+      </a>
     </div>
     <div class="project-content">
       <h3 class="project-title">Buckeye AutoDrive AV Stack</h3>
@@ -79,7 +83,9 @@ Selected projects, demos, and research systems, with links to papers, technical 
 
   <article class="project-item">
     <div class="project-thumb">
-      <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
+      <a href="/images/projects/plum-selection-system.jpg" class="image-lightbox">
+        <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
+      </a>
     </div>
     <div class="project-content">
       <h3 class="project-title">Plum Selection System</h3>

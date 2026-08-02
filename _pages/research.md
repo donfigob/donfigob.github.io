@@ -10,7 +10,9 @@ author: "cris"
 
   <article class="paper-item">
     <div class="paper-thumb">
-      <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      <a href="/images/projects/civet-teaser.jpg" class="image-lightbox">
+        <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      </a>
     </div>
     <div class="paper-content">
       <h3 class="paper-title">When the City Teaches the Car: Label-Free 3D Perception from Infrastructure</h3>
@@ -27,7 +29,9 @@ author: "cris"
 
  <article class="paper-item">
     <div class="paper-thumb">
-      <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
+      <a href="/images/projects/plum-selection-system.jpg" class="image-lightbox">
+        <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
+      </a>
     </div>
     <div class="paper-content">
       <h3 class="paper-title">A Plum Selection System that Uses a Multi-class Convolutional Neural Network (CNN)</h3>

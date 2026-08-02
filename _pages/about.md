@@ -26,14 +26,18 @@ I am exploring how agents can perceive and understand scenes based on their acti
 
   <article class="featured-card">
     <div class="featured-thumb">
-      <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle platform">
+      <a href="/images/projects/autodrive-stack.jpg" class="image-lightbox">
+        <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle platform">
+      </a>
     </div>
     <div class="featured-content">
-      <h3>Buckeye AutoDrive AV Stack</h3>
-      <p class="featured-meta">Team Captain & Mobility Innovation Leader | The Ohio State University | 2024-2026</p>
-      <p>Full-stack L4 autonomous vehicle integration on a real vehicle platform, including multimodal perception pipelines, distributed computing, SLAM/localization, MPC controller, and CAN communication.</p>
-      <p class="featured-awards"><strong>Awards:</strong> Mobility Innovation · MathWorks Simulation · System Safety · Static Events</p>
+      <h3>Buckeye AutoDrive</h3>
+      <p class="featured-role">Team Captain & Mobility Innovation Leader</p>
+      <p class="featured-meta">The Ohio State University | 2024-2026</p>
+      <p>Full-stack L4 autonomous vehicle integration on a real vehicle platform, including multimodal perception pipelines, distributed computing, SLAM, MPC controller, and CAN communication.</p>
+      <p class="featured-awards"><span>Awards</span> Mobility Innovation · MathWorks Simulation · System Safety · Static Events</p>
       <div class="featured-links">
+        <a href="https://sites.google.com/view/buckeyeautodrive/home?authuser=0">Website</a>
         <a href="/projects/">Project details</a>
         <a href="/gallery/">Gallery</a>
         <span>Demo coming soon</span>
@@ -50,7 +54,9 @@ I am exploring how agents can perceive and understand scenes based on their acti
 
   <article class="paper-item">
     <div class="paper-thumb">
-      <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      <a href="/images/projects/civet-teaser.jpg" class="image-lightbox">
+        <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
+      </a>
     </div>
     <div class="paper-content">
       <h3 class="paper-title">When the City Teaches the Car: Label-Free 3D Perception from Infrastructure</h3>
@@ -67,7 +73,9 @@ I am exploring how agents can perceive and understand scenes based on their acti
 
   <article class="paper-item">
     <div class="paper-thumb">
-      <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
+      <a href="/images/projects/plum-selection-system.jpg" class="image-lightbox">
+        <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
+      </a>
     </div>
     <div class="paper-content">
       <h3 class="paper-title">A Plum Selection System that Uses a Multi-class Convolutional Neural Network (CNN)</h3>
