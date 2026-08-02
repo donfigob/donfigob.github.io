@@ -26,7 +26,7 @@ author:
   avatar           : "crisgit.jpeg"
   name             : "Cristian Bautista"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in ECE at Ohio State working on autonomous vehicles and collaborative 3D perception."  # A short bio to display in the author profile section
+  bio              : "PhD student in ECE at Ohio State"  # A short bio to display in the author profile section
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
   uri              : "https://donfigob.github.io"
