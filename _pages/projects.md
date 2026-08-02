@@ -11,8 +11,8 @@ Selected projects, demos, and research systems, with links to papers, technical 
 <div class="project-list">
 
   <article class="project-item">
-    <div class="project-thumb project-thumb--placeholder">
-      Teaser coming soon
+    <div class="project-thumb">
+      <img src="/images/projects/civet-teaser.jpg" alt="When the City Teaches the Car project teaser">
     </div>
     <div class="project-content">
       <h3 class="project-title">When the City Teaches the Car</h3>
@@ -36,8 +36,8 @@ Selected projects, demos, and research systems, with links to papers, technical 
   </article>
 
   <article class="project-item">
-    <div class="project-thumb project-thumb--placeholder">
-      Teaser coming soon
+    <div class="project-thumb">
+      <img src="/images/projects/autodrive-stack.jpg" alt="Buckeye AutoDrive autonomous vehicle stack teaser">
     </div>
     <div class="project-content">
       <h3 class="project-title">Buckeye AutoDrive AV Stack</h3>
@@ -78,8 +78,8 @@ Selected projects, demos, and research systems, with links to papers, technical 
   </article>
 
   <article class="project-item">
-    <div class="project-thumb project-thumb--placeholder">
-      Teaser coming soon
+    <div class="project-thumb">
+      <img src="/images/projects/plum-selection-system.jpg" alt="Plum selection system teaser">
     </div>
     <div class="project-content">
       <h3 class="project-title">Plum Selection System</h3>

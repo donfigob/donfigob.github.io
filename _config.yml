@@ -29,7 +29,7 @@ author:
   bio              : "PhD student in ECE at Ohio State"  # A short bio to display in the author profile section
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
-  uri              : "https://donfigob.github.io"
+  uri              : # URL
   email            : "bautistagordo.1@buckeyemail.osu.edu" 
 
   # Academic websites
