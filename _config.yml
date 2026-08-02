@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Cristian's Homepage"
+title                    : "Cristian Bautista"
 title_separator          : "-"
-name                     : &name "Cristian"
-description              : &description "Welcome to my personal website. I hope you have fun and fine interesting things"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Cristian Bautista"
+description              : &description "PhD student in Electrical and Computer Engineering at The Ohio State University working on autonomous vehicles, collaborative 3D perception, and safety-critical autonomy."
 url                      : https://donfigob.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   avatar           : "crisgit.jpeg"
   name             : "Cristian Bautista"
   pronouns         : # example: "she/her"  
-  bio              : "Looking for a PhD position in Perception and RL for Robotics. "  # A short bio to display in the author profile section
+  bio              : "PhD student in ECE at Ohio State working on autonomous vehicles and collaborative 3D perception."  # A short bio to display in the author profile section
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
-  uri              : # URL
+  uri              : "https://donfigob.github.io"
   email            : "bautistagordo.1@buckeyemail.osu.edu" 
 
   # Academic websites

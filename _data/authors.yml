@@ -1,28 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
-
-
-  Cristian Bautista:
+cris:
   name        : "Cristian Bautista"
-  uri         : "https://cristianbautista123.github.io"
+  uri         : "https://donfigob.github.io"
   email       : "bautistagordo.1@buckeyemail.osu.edu"
-  bio         : "Looking for a PhD position in Perception and RL for Robotics."
+  bio         : "PhD student in ECE at Ohio State working on autonomous vehicles and collaborative 3D perception."
   avatar      : "crisgit.jpeg"
+  location    : "Columbus, OH"
+  employer    : "The Ohio State University"
+  googlescholar: "https://scholar.google.com/citations?user=qrBEISgAAAAJ&hl=en"
   linkedin    : "cristian-bautista-ai"
-  github      : "cristianbautista123"
+  github      : "donfigob"
