@@ -6,30 +6,92 @@ author_profile: true
 author: "cris"
 ---
 
-This page will collect selected projects with concrete evidence: demos, figures, videos, papers, posters, repositories, and technical notes.
+Selected projects, demos, and research systems, with links to papers, technical notes, videos, posters, repositories, and slides as they become available.
 
-## Initial Project List
+<div class="project-list">
 
-### Collaborative 3D Perception
+  <article class="project-item">
+    <div class="project-thumb project-thumb--placeholder">
+      Teaser coming soon
+    </div>
+    <div class="project-content">
+      <h3 class="project-title">Collaborative 3D Perception</h3>
+      <p class="project-meta">Research project | 2025-present | Autonomous driving, 3D perception, infrastructure collaboration</p>
+      <p class="project-summary">Label-free 3D perception for autonomous driving using infrastructure-to-vehicle collaboration.</p>
+      <div class="project-tags">
+        <span>3D perception</span>
+        <span>LiDAR</span>
+        <span>Collaborative perception</span>
+        <span>Autonomous driving</span>
+      </div>
+      <div class="project-links">
+        <a href="https://arxiv.org/pdf/2603.16742">Paper</a>
+        <a href="/research/">Research</a>
+        <span>Project page coming soon</span>
+      </div>
+    </div>
+  </article>
 
-Label-free 3D perception for autonomous driving using infrastructure-to-vehicle collaboration.
+  <article class="project-item">
+    <div class="project-thumb project-thumb--placeholder">
+      Teaser coming soon
+    </div>
+    <div class="project-content">
+      <h3 class="project-title">Buckeye AutoDrive AV Stack</h3>
+      <p class="project-meta">Team captain and mobility innovation leader | 2024-2026 | Ohio State</p>
+      <p class="project-summary">Full-stack autonomous vehicle integration across perception pipelines, SLAM, sensor suite design, control interfaces, and CAN-based vehicle communication.</p>
+      <div class="project-tags">
+        <span>AV software</span>
+        <span>ROS2</span>
+        <span>SLAM</span>
+        <span>CAN</span>
+      </div>
+      <div class="project-links">
+        <span>Demo coming soon</span>
+        <span>System notes coming soon</span>
+        <span>Awards summary coming soon</span>
+      </div>
+    </div>
+  </article>
 
-**Evidence to add:** paper link, poster, qualitative results, pipeline figure, short demo video if available.
+  <article class="project-item">
+    <div class="project-thumb project-thumb--placeholder">
+      Teaser coming soon
+    </div>
+    <div class="project-content">
+      <h3 class="project-title">Learning-Based Decision-Making</h3>
+      <p class="project-meta">Research project | 2025-present | Reinforcement learning, decision-making, autonomous systems</p>
+      <p class="project-summary">Hierarchical deep reinforcement learning for complex driving missions and autonomous decision-making.</p>
+      <div class="project-tags">
+        <span>Reinforcement learning</span>
+        <span>Decision-making</span>
+        <span>Simulation</span>
+      </div>
+      <div class="project-links">
+        <span>Technical note coming soon</span>
+        <span>Demo coming soon</span>
+      </div>
+    </div>
+  </article>
 
-### Buckeye AutoDrive AV Stack
+  <article class="project-item">
+    <div class="project-thumb project-thumb--placeholder">
+      Teaser coming soon
+    </div>
+    <div class="project-content">
+      <h3 class="project-title">Plum Selection System</h3>
+      <p class="project-meta">Undergraduate thesis | 2019-2021 | Computer vision, deep learning, real-world system</p>
+      <p class="project-summary">Computer vision system for plum classification using convolutional neural networks, data augmentation, and Grad-CAM, with a real-world implementation.</p>
+      <div class="project-tags">
+        <span>Computer vision</span>
+        <span>CNN</span>
+        <span>Grad-CAM</span>
+      </div>
+      <div class="project-links">
+        <a href="/research/">Publication</a>
+        <span>Demo coming soon</span>
+      </div>
+    </div>
+  </article>
 
-Full-stack autonomous vehicle integration work across perception pipelines, SLAM, control interfaces, sensor suite design, and CAN-based vehicle communication.
-
-**Evidence to add:** vehicle photos, system architecture, sensor suite, competition results, demo footage, selected technical writeup.
-
-### Learning-Based Decision-Making
-
-Hierarchical deep reinforcement learning for robotaxi-style missions in complex driving environments.
-
-**Evidence to add:** environment screenshots, method summary, reward/task design, videos, evaluation plots.
-
-### Plum Selection System
-
-Computer vision system for plum classification using convolutional neural networks, data augmentation, and Grad-CAM, with real-world system implementation.
-
-**Evidence to add:** paper link, system photo, Grad-CAM examples, dataset/task summary.
+</div>
